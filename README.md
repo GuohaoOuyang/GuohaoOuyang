@@ -1,5 +1,5 @@
 <h2> I'm Aidan Ouyang! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 ### Languages
 
@@ -29,10 +29,10 @@
 [![Ebook Store](https://img.shields.io/badge/-🔊%20Ebook%20Store-000?)](https://github.com/GuohaoOuyang/Ebook-Store-Fair)
 
 
-
+<p align="center">
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=GuohaoOuyang&hide_title=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,74EBD5,86A8E7,ACB6E5&theme=dark" /><!-- wi*quL3fcV -->
 <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuohaoOuyang&hide=eiffel&hide_title=true&card-width=500&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,ACB6E5,91EAE4&theme=graywhite" />
-
+</p>
 
 <!---
 GuohaoOuyang/GuohaoOuyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
