@@ -30,8 +30,8 @@
 
 
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=GuohaoOuyang&hide_title=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,74EBD5,86A8E7,ACB6E5&theme=dark" /><!-- wi*quL3fcV -->
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuohaoOuyang&hide=eiffel&hide_title=true&card-width=500&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,ACB6E5,91EAE4&theme=graywhite" />
+<img height="135px" src="https://github-readme-stats.vercel.app/api?username=GuohaoOuyang&hide_title=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,74EBD5,86A8E7,ACB6E5&theme=dark" /><!-- wi*quL3fcV -->
+<img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuohaoOuyang&hide=eiffel&hide_title=true&card-width=500&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,ACB6E5,91EAE4&theme=graywhite" />
 
 
 <!---
