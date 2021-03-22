@@ -1,5 +1,5 @@
-<h2> I'm Aidan Ouyang! <img src="https://media.giphy.com/media/VdWP737yPAGXDL5r0y/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+<h2>Hi there, I am Aidan Ouyang! <img src="https://media.giphy.com/media/VdWP737yPAGXDL5r0y/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="230">
 
 ### Languages
 
@@ -31,7 +31,7 @@
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GuohaoOuyang&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,74EBD5,86A8E7,ACB6E5&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuohaoOuyang&hide=eiffel&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,ACB6E5,91EAE4&theme=graywhite" />
 
-<img src="https://media.giphy.com/media/aBjluDlnSEdPEJGVYn/giphy.gif" width="60"> <em><b>I love connecting with different people</b> 
+<img src="https://media.giphy.com/media/aBjluDlnSEdPEJGVYn/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> If you want to say hi, I will be <b>happy to meet with you!</b></em>
 
 
 <!---
