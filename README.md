@@ -20,6 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
 ![Redux](https://img.shields.io/badge/Redux-000?&logo=redux)
 ![Material-UI](https://img.shields.io/badge/Material--UI-000?&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=Bootstrap)
 ![D3](https://img.shields.io/badge/D3.js-000?&logo=d3.js)
 ![Styled-Components](https://img.shields.io/badge/styled--components-000?&logo=styled-components)
 
