@@ -16,13 +16,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?&logo=vue.js)
 ![Express](https://img.shields.io/badge/Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=graphql)
 ![Redux](https://img.shields.io/badge/Redux-000?&logo=redux)
 ![Material-UI](https://img.shields.io/badge/Material--UI-000?&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=Bootstrap)
-![D3](https://img.shields.io/badge/D3.js-000?&logo=d3.js)
 ![Styled-Components](https://img.shields.io/badge/styled--components-000?&logo=styled-components)
+![D3](https://img.shields.io/badge/D3.js-000?&logo=d3.js)
 
 ### Projects
 
