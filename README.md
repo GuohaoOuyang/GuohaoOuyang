@@ -22,6 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=graphql)
 ![Redux](https://img.shields.io/badge/Redux-000?&logo=redux)
+![Ant-Design](https://img.shields.io/badge/ant-design-000?&logo=ant-design)
 ![Material-UI](https://img.shields.io/badge/Material--UI-000?&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=Bootstrap)
 ![Styled-Components](https://img.shields.io/badge/styled--components-000?&logo=styled-components)
