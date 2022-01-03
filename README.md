@@ -32,9 +32,9 @@
 ### Projects
 
 [![Mention Crawler](https://img.shields.io/badge/-🪲%20Mention%20Crawler-000?)](https://github.com/hatchways/team-dolphin)
+[![Portfolio](https://img.shields.io/badge/-🧬%20Portfolio-000?)](https://guohaoouyang.github.io/portfolio_v2/)
 [![SPA Demo](https://img.shields.io/badge/-🔬%20SPA-000?)](https://github.com/GuohaoOuyang/spa-brochure-inovagame)
 [![Ebook Store](https://img.shields.io/badge/-🔊%20Ebook%20Store-000?)](https://github.com/GuohaoOuyang/Ebook-Store-Fair)
-[![Portfolio](https://img.shields.io/badge/-🧬%20My%20Website-000?)](https://guohaoouyang.github.io/portfolio_v2/)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GuohaoOuyang&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,74EBD5,86A8E7,ACB6E5&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuohaoOuyang&hide=eiffel&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,ACB6E5,91EAE4&theme=graywhite" />
 
